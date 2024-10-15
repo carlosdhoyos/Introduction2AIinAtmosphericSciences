@@ -1,0 +1,7 @@
+title: "My Jekyll Page"
+description: "A simple Jekyll site on GitHub Pages"
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://yourusername.github.io/your-repo-name" # Replace with your actual GitHub username and repo name
+
+# Include the theme
+theme: minima # Example of a simple default theme
